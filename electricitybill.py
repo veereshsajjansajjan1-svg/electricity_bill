@@ -10,6 +10,6 @@ rate = 5
 bill = units * rate
 
 print("\n--- Electricity Bill Calculator ---")
-print(f"Units Consumed: {units}")
-print(f"Rate per Unit: ₹{rate}")
-print(f"Final Bill: ₹{bill}")
+print(f"Units Consumed: Rupees{units}")
+print(f"Rate per Unit: Rupess{rate}")
+print(f"Final Bill: Rupees{bill}")
